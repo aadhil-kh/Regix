@@ -1,0 +1,4 @@
+hello world 
+I am just trying to read this file from my php
+program 
+you get it right
